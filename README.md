@@ -21,7 +21,7 @@ Apenas conversão de aleatório para as funções no sheets
 
 O XLS gerado está disponível no seguinte link:
 
-## 📕 [Baixe o eBook Aqui](https://docs.google.com/spreadsheets/d/1F3dKYIisu89UJxudnMFyKaUcMNjxPaDTfswQ7-ejJnI/edit?usp=sharing)
+## 📕 [Baixe o XLSX](https://docs.google.com/spreadsheets/d/1F3dKYIisu89UJxudnMFyKaUcMNjxPaDTfswQ7-ejJnI/edit?usp=sharing)
 
 ## 🛠️ Como Reproduzir Este Projeto
 
